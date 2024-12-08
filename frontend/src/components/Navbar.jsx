@@ -26,7 +26,7 @@ const Navbar = () => {
     <div className="bg-gray-900 text-white ">
       <div className="flex items-center justify-between py-5 px-6 font-medium w-full max-w-screen mx-auto">
         <Link to={"/"}>
-          <img src={assets.logo} className="w-36" alt="Logo" />
+          <img src={assets.logo1} className="w-36" alt="Logo" />
         </Link>
         <ul className="hidden sm:flex gap-5 text-sm">
           <NavLink
